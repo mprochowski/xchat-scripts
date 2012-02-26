@@ -6,5 +6,5 @@
 Copy script to ~/.xchat2/ directory or load module in XChat.
 
 ### Usage:
-* /slapall - slaps all users in channel
-* /slap username - slaps user
+* /slap username message - slaps user (default message: 'around a bit with a large trout.')
+* /slap-all - slaps all users in channel
